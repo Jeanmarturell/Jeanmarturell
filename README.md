@@ -1,4 +1,4 @@
-### Hi there! I'm Jean Carlos Marturell 👋
+### Hi there! I'm Jean Marturell 👋
 
 
 
