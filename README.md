@@ -2,6 +2,6 @@
 
 
 
-- 🔭 I’m currently working as a Payroll Analyst Tech Lead at EY
-- 💬 Ask me about SQL, Tableau, R and Python
+- 🔭 I’m currently working as a Payroll Integration Business Analyst - Tech Lead at EY
+- 💬 Ask me about SQL, Tableau, and Python
 - 📫 How to reach me: www.linkedin.com/in/jeanmarturell
